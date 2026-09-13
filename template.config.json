@@ -1,0 +1,30 @@
+{
+  "v": 1,
+  "slug": "paper-aisle",
+  "name": "The Paper Aisle",
+  "description": "A mobile-first bridal invitation-card studio template built for DIY wedding invitations: ivory, blush, and champagne-gold surfaces, an elegant Cormorant Garamond display serif, a hand-drawn stationery logo, and SVG-only artwork. Features an announcement ribbon with live save-the-date guest counter, a hero with a compact countdown timer and stylized wax-seal emblem, a card studio grid of four invitation designs with palette and mood badges, animated count-up statistics, and the signature Save-the-Date centerpiece with a big threading countdown, a validated save-the-date form (loading, success, and duplicate states), a persisted guest counter, and an add-to-my-calendar export with a clipboard fallback. Includes atelier help cards, share tools, scroll-reveal animations, mobile drawer navigation, a sticky mobile Save bar, reduced-motion support, and complete data-fws-slot content annotations.",
+  "category": "business.lifestyle",
+  "slot_schema_version": 1,
+  "author": {
+    "name": "Aryan",
+    "handle": "Aa11rn",
+    "url": "https://github.com/Aa11rn"
+  },
+  "tags": ["wedding", "bridal", "invitations", "save-the-date", "cards", "stationery", "countdown", "rsvp", "mobile-first", "celebrations", "events", "design", "lifestyle"],
+  "features": [
+    "announcement ribbon with cycling season notes, live guest counter, pause, and dismiss",
+    "sticky navigation with Save-the-Date CTA and mobile drawer",
+    "hero with compact countdown, status chip, and wax-seal emblem",
+    "card studio grid of four invitation designs with palette and mood badges",
+    "animated count-up statistics band",
+    "Save-the-Date centerpiece with threading countdown (days / hours / minutes / seconds)",
+    "validated save-the-date form with loading, success, and duplicate-email states",
+    "persisted guest counter with social-proof avatar stack",
+    "add-to-my-calendar export with clipboard fallback for older phones",
+    "atelier help cards and share tools",
+    "scroll-reveal animations with reduced-motion support",
+    "toast notifications, mobile Save bar, and back-to-top",
+    "fully customizable content via data-fws-slot attributes"
+  ],
+  "license": "MIT"
+}
